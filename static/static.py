@@ -1,4 +1,9 @@
-# static.py
+HTML = """   
+nella riga 2 ora dovrete inserire un testo meglio se è lungo e in inglese, 
+non importa quante righe occupa l'importante è non lasciare spazi tra una 
+riga numerata e l'altra, a fine testo inserire nella riga che vi capita 
+4/5 o 6 questi simboli  
+"""
 
 HTML = """
 <!DOCTYPE html>
